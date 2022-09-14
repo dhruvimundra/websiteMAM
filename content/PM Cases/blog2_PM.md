@@ -10,4 +10,11 @@ keywords: ""
 slug: magna
 title: Product Management Case Studies
 
+tiles:
+    enable: yes
+    showcase:
+      - image: Casual Photo.jpg
+      #subtitle: Ipsum Dolor Sit Amet
+        title: About me
+        url: blogs/aliquam
 ---
