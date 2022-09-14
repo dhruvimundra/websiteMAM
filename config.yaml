@@ -62,17 +62,17 @@ params:
     button1:
       - name: View Portfolio
         url: https://dhruvimundraportfolio.my.canva.site/
-    button2:
-      - name: Log In
-        url: '#'
+    # button2:
+    #   - name: Log In
+    #     url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
+      - name: Product Management Cases
         url: blogs
-      - name: Generic Blog
+      - name: Coding Case Studies
         url: blogs/ipsum
-      - name: Elements
+      - name: CV
         url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
