@@ -71,7 +71,7 @@ params:
       - name: Product Management Cases
         url: blogs
       - name: Coding Case Studies
-        url: blogs/ipsum
+        url: pm_cases
       - name: CV
         url: elements.html
     menu: Menu

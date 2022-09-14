@@ -7,7 +7,7 @@ description: ""
 draft: false
 image: pic10.jpg
 keywords: ""
-slug: ipsum
+slug: pm_cases/ipsum
 title: Ipsum
 ---
 
