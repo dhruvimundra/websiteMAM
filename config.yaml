@@ -59,21 +59,21 @@ params:
   image: london-business-school-Campus.jpg
   name: Dhruvi
   navigation:
-    button1:
-      - name: View Portfolio
-        url: https://dhruvimundraportfolio.my.canva.site/
+    # button1:
+    #   - name: View Portfolio
+    #     url: https://dhruvimundraportfolio.my.canva.site/
     # button2:
     #   - name: Log In
     #     url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Product Management Cases
-        url: blogs/ipsum
-      - name: Coding Case Studies
-        url: blogs
       - name: CV
-        url: elements.html
+        url: Product Case Studies/DhruviMundra_CV_v3.pdf
+      # - name: Coding Case Studies
+      #   url: blogs
+      # - name: CV
+      #   url: elements.html
     menu: Menu
     # subtitle: By HTML5 Up
     title: Dhruvi Mundra
@@ -82,28 +82,28 @@ params:
     showcase:
       - image: Casual Photo.jpg
       #  subtitle: Ipsum Dolor Sit Amet
-        title: About me
-        url: blogs/aliquam
-      - image: Big Ben.jpg
-      #  subtitle: Feugiat Amet Tempus
         title: CV
-        url: blogs/tempus
-      - image: tower bridge.jpg
-       # subtitle: Lorem Etiam Nullam
-        title: Product Management Case Studies
-        url: blogs
-      - image: London Eye.webp
-       # subtitle: Nisl Sed Aliquam
-        title: Coding Case Studies
-        url: blogs/ipsum
-      # - image: pic05.jpg
-      #   subtitle: Ipsum Dolor Sit Amet
-      #   title: Consequat
-      #   url: blogs/ipsum
-      # - image: pic06.jpg
+        url: Product Case Studies/DhruviMundra_CV_v3.pdf
+      # - image: Big Ben.jpg
       #   subtitle: Feugiat Amet Tempus
-      #   title: Etiam
-      #   url: blogs/ipsum
+      #   title: CV
+      #   url: blogs/tempus
+      - image: Amazon.png
+        subtitle: PM Case
+        title: Amazon Music Case Study
+        url: Product Case Studies/Dhruvi_Mundra_Amazon_Music.pdf
+      - image: Instagram.png
+        subtitle: PM Case
+        title: Instagram Gaming Case Study
+        url: Product Case Studies/Dhruvi_Mundra_Instagram.pdf
+      - image: IMPROVING RAPIDO (1).png
+        subtitle: PM Case
+        title: Rapdio Case Study
+        url: Product Case Studies/Dhruvi_Mundra_Rapido_pdf.pdf
+      - image: pic06.jpg
+        subtitle: Feugiat Amet Tempus
+        title: IMDB Case Study
+        url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
