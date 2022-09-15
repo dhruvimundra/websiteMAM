@@ -69,9 +69,9 @@ params:
       - name: Home
         url: '#'
       - name: Product Management Cases
-        url: blogs/ipsum
+        url: pm_cases
       - name: Coding Case Studies
-        url: blogs
+        url: pm_cases
       - name: CV
         url: elements.html
     menu: Menu
@@ -91,7 +91,7 @@ params:
       - image: tower bridge.jpg
        # subtitle: Lorem Etiam Nullam
         title: Product Management Case Studies
-        url: blogs
+        url: pm_cases
       - image: London Eye.webp
        # subtitle: Nisl Sed Aliquam
         title: Coding Case Studies
