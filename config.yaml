@@ -70,10 +70,16 @@ params:
         url: '#'
       - name: CV
         url: Product Case Studies/DhruviMundra_CV_v3.pdf
-      # - name: Coding Case Studies
-      #   url: blogs
-      # - name: CV
-      #   url: elements.html
+      - name: IMDb Case Study
+        url: blogs/movies1
+      - name: London Bikes Case Study
+        url: blogs/bikes
+      - name: Amazon Music Case Study
+        url: Product Case Studies/Dhruvi_Mundra_Amazon_Music.pdf
+      - name: Instagram Games Case Study
+        url: Product Case Studies/Dhruvi_Mundra_Instagram.pdf
+      - name: Rapido Case Study
+        url: Product Case Studies/Dhruvi_Mundra_Rapido_pdf.pdf
     menu: Menu
     # subtitle: By HTML5 Up
     title: Dhruvi Mundra
@@ -108,10 +114,10 @@ params:
         subtitle: PM Case
         title: Rapdio Case Study
         url: Product Case Studies/Dhruvi_Mundra_Rapido_pdf.pdf
-      - image: rapidoauto.jpg
-        subtitle: Test
-        title: Test
-        url: blogs
+      # - image: rapidoauto.jpg
+      #   subtitle: Test
+      #   title: Test
+      #   url: blogs
       
   two:
     buttonText: CV
