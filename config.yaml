@@ -28,7 +28,7 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: Dhruvi
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
@@ -56,7 +56,7 @@ params:
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/dhruvimundra/
-  image: london-business-school-Campus.jpg
+  image: banner.jpg
   name: Dhruvi
   navigation:
     # button1:
@@ -88,24 +88,33 @@ params:
       #   subtitle: Feugiat Amet Tempus
       #   title: CV
       #   url: blogs/tempus
+      - image: imdb.jpeg
+        subtitle: R Project
+        title: IMDB Case Study
+        url: blogs/movies1
+      - image: santander_bikes_brixton.webp
+        subtitle: R Project
+        title: London Bikes Case Study
+        url: blogs/bikes
       - image: Amazon.png
         subtitle: PM Case
         title: Amazon Music Case Study
         url: Product Case Studies/Dhruvi_Mundra_Amazon_Music.pdf
-      - image: Instagram.png
+      - image: ig.jpg
         subtitle: PM Case
         title: Instagram Gaming Case Study
         url: Product Case Studies/Dhruvi_Mundra_Instagram.pdf
-      - image: IMPROVING RAPIDO (1).png
+      - image: rapidoauto.jpg
         subtitle: PM Case
         title: Rapdio Case Study
         url: Product Case Studies/Dhruvi_Mundra_Rapido_pdf.pdf
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: IMDB Case Study
-        url: blogs/ipsum
+      - image: rapidoauto.jpg
+        subtitle: Test
+        title: Test
+        url: blogs
+      
   two:
-    buttonText: Get Started
+    buttonText: CV
     enable: yes
     subtitle: "Being a Management Consultant at PwC opened doors to understanding companies and users at a much deeper level. At DoWell Research, a product development firm, my interest in Product Management strengthened since it exposed me to user experience market research. I worked with clients like Google, YouTube and Spotify to help improve their product offerings.
 
@@ -117,4 +126,4 @@ At London Business School, I have taken up subjects like Product Management, Str
 
 My experience with 5+ NGOs in the past has given me extensive understanding of human behaviour. I wish to utilize my skills to build products that create an impact in the world."
     title: This is my story!
-    url: blogs
+    url: blogs/DhruviMundra_CV_v3.pdf
